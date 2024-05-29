@@ -7,3 +7,4 @@
 * [Пример сайта (https://akstar-music.ru/)](https://docs.google.com/document/d/1kdjuKWTr72bweBfsg5kXL801zqsiV9-s/edit?usp=drive_link).	
 * [Мобильное приложение Super Notes](https://docs.google.com/spreadsheets/d/17zcVkawSpglB9M3g1RlVCdKUe5lC9-7aymmqCkc8jmE/edit#gid=0).	
 * [Jira](https://github.com/slavaroskoshnyy/jira).	
+* [Пример](https://docs.google.com/spreadsheets/d/13qCp7JAhnT37ggE7Hj8KZAA48JCjJ0G9GRaDOj1PiE0/edit#gid=1776125111).
